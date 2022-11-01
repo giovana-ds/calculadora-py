@@ -1,3 +1,3 @@
-expressao_mat = input("Digite uma expressão matemática: ")
+expressao_mat = input('\nDigite uma expressão matemática: ')
 resultado = eval(expressao_mat)
-print(f'O resultado é {resultado}')
+print(f'\nO resultado é {resultado}')
